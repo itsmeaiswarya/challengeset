@@ -8,7 +8,7 @@ Implementation of few Algorithms and Data Structures using python and c++.
 * **Merge Sort** - (https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/MERGESOR.CPP)
 * **Bubble Sort** - (https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/BUBBLESO.CPP)
 * **Binary Search** - (https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/BINARYSE.CPP)
-* **Balanced Parantheses matching using stack** - https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/balancing%20_parenthesis.py
+* **Balanced Parantheses matching using stack** - (https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/balancing%20_parenthesis.py)
 * **Check for loops in Linked List** - (https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/cycleDetection.py)
 
 ## Data Structures
