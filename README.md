@@ -19,3 +19,8 @@ Implementation of few Algorithms and Data Structures using python and c++.
 * **Doubly Linked List** - (https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/doubleLinkedList.py) 
 * **Circular Linked List** - (https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/circular_queue.py)
 * **Double Ended Queue** - (https://github.com/itsmeaiswarya/Programming-Tasks/blob/main/dequeue.py)
+
+## CodeForces
+
+* **1030A** - (https://github.com/itsmeaiswarya/challengeset/blob/main/Codeforces/1030A.py)
+* **71A** - (https://github.com/itsmeaiswarya/challengeset/blob/main/Codeforces/71A.py)
