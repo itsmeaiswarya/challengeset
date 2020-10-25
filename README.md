@@ -24,3 +24,4 @@ Implementation of few Algorithms and Data Structures using python and c++.
 
 * **1030A** - (https://github.com/itsmeaiswarya/challengeset/blob/main/Codeforces/1030A.py)
 * **71A** - (https://github.com/itsmeaiswarya/challengeset/blob/main/Codeforces/71A.py)
+* **96A** - (https://github.com/itsmeaiswarya/challengeset/blob/main/Codeforces/96A.py)
